@@ -24,6 +24,10 @@ h1 {
 	color: #4aaaa5;
 }
 
+.portfolio img {
+	padding: 1rem;
+}
+
 footer {
 	font-size: 12px;
 	line-height: 12px;
