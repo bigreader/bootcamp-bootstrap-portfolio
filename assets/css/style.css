@@ -14,6 +14,14 @@ html {
 	background: #4aaaa5;
 }
 
+a {
+	color: #4aaaa5;
+}
+
+a:hover {
+	color: #347773;
+}
+
 h1 {
 	margin: 0 0 1rem 0;
 	padding-bottom: 1rem;
